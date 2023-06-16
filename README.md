@@ -16,6 +16,8 @@ Após isso será possível rodar a aplicação (estando dentro do diretório do 
 dart run
 ```
 
+Caso ainda apresente falhas ao tentar rodar o projeto, remova a pasta `.dart_tool` e então rode `dart run` novamente.
+
 ## Correção de Erros
 
 | ⚠️ É necessário que o SDK do dart esteja na versão `v3.0.4` para cima
