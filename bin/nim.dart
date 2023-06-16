@@ -5,9 +5,10 @@ import 'core/game.dart';
 import 'utils/terminal.dart';
 
 /**
- * Author: Victor Hugo da Silva;
- * RA: 1431432312001
- * 
+ * Authors: 
+ * - Victor Hugo da Silva;
+ * - João Vitor Zavisas Terassi Morais
+ * - Bruno Santos Ramos Pequeno
  */
 
 void main() {
