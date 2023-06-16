@@ -10,6 +10,9 @@ import 'utils/terminal.dart';
  * 
  */
 
+// IMPORTANTE: Caso esteja enfrentando problemas para rodar a CLI
+// Leia o arquivo README.md na raiz desse projeto.
+
 void main() {
   clearScreen();
 
