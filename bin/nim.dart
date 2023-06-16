@@ -11,6 +11,8 @@ import 'utils/terminal.dart';
  * - Bruno Santos Ramos Pequeno
  */
 
+// LEIA O ARQUIVO README.md CASO ESTEJA ENFRENTANDO PROBLEMAS PARA EXECUTAR A CLI !
+
 void main() {
   clearScreen();
 
